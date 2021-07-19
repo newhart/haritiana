@@ -1,8 +1,7 @@
 {
-  "name": "lotness",
+  "name": "cv-hart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://newhart.github.io/haritiana",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -25,7 +24,6 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
