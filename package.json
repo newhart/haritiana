@@ -2,6 +2,7 @@
   "name": "lotness",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://newhart.github.io/haritiana",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -9,6 +10,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^5.0.0-beta1",
+    "gh-pages": "^3.2.3",
     "i18next": "^19.8.4",
     "node-sass": "^4.14.1",
     "react": "^17.0.1",
@@ -23,6 +25,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
