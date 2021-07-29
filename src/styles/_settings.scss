@@ -4,12 +4,12 @@ $font-1: 'Nova Round', cursive;
 $font-2: 'Dosis', sans-serif;
 $font-3: 'Josefin Sans', serif;
 
-$color-1: #2a1d52;
-$color-2: #6C77F4;
-$color-3: rgb(99, 164, 233);
-$color-4: #4FEDD2;
-$color-5: #36D0EA;
-$white: #ddd;
+$color-1: #06739e;
+$color-2: #a18cd1;
+$color-3: rgb(198, 237, 255);
+$color-4: #fbc2eb;
+$color-5: #ddd;
+$white: #fff;
 $black: #333;
 
 $borderRadius: 25px;
@@ -31,7 +31,7 @@ body {
   max-width: 1200px;
   font-family: $font-1;
   color: $black;
-  background: #ddd;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 }
 button {
   cursor: pointer;
