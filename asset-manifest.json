@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/haritiana/static/css/main.d376f506.chunk.css",
-    "main.js": "/haritiana/static/js/main.fc181739.chunk.js",
-    "main.js.map": "/haritiana/static/js/main.fc181739.chunk.js.map",
-    "runtime-main.js": "/haritiana/static/js/runtime-main.c307d129.js",
-    "runtime-main.js.map": "/haritiana/static/js/runtime-main.c307d129.js.map",
-    "static/js/2.10c86d04.chunk.js": "/haritiana/static/js/2.10c86d04.chunk.js",
-    "static/js/2.10c86d04.chunk.js.map": "/haritiana/static/js/2.10c86d04.chunk.js.map",
+    "main.css": "/haritiana/static/css/main.defafaea.chunk.css",
+    "main.js": "/haritiana/static/js/main.715b40a6.chunk.js",
+    "main.js.map": "/haritiana/static/js/main.715b40a6.chunk.js.map",
+    "runtime-main.js": "/haritiana/static/js/runtime-main.53614516.js",
+    "runtime-main.js.map": "/haritiana/static/js/runtime-main.53614516.js.map",
+    "static/js/2.027b4e36.chunk.js": "/haritiana/static/js/2.027b4e36.chunk.js",
+    "static/js/2.027b4e36.chunk.js.map": "/haritiana/static/js/2.027b4e36.chunk.js.map",
     "index.html": "/haritiana/index.html",
-    "static/css/main.d376f506.chunk.css.map": "/haritiana/static/css/main.d376f506.chunk.css.map",
-    "static/js/2.10c86d04.chunk.js.LICENSE.txt": "/haritiana/static/js/2.10c86d04.chunk.js.LICENSE.txt",
+    "static/css/main.defafaea.chunk.css.map": "/haritiana/static/css/main.defafaea.chunk.css.map",
+    "static/js/2.027b4e36.chunk.js.LICENSE.txt": "/haritiana/static/js/2.027b4e36.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/haritiana/static/media/work.83d3d09f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c307d129.js",
-    "static/js/2.10c86d04.chunk.js",
-    "static/css/main.d376f506.chunk.css",
-    "static/js/main.fc181739.chunk.js"
+    "static/js/runtime-main.53614516.js",
+    "static/js/2.027b4e36.chunk.js",
+    "static/css/main.defafaea.chunk.css",
+    "static/js/main.715b40a6.chunk.js"
   ]
 }
